@@ -23,7 +23,7 @@ public class Oppgave3 {
 			total *= i;
 		}
 
-		showMessageDialog(null, "n! til " + brukerInput + " er " + sum);
+		showMessageDialog(null, "n! til " + brukerInput + " er " + total);
 
 	}
 
