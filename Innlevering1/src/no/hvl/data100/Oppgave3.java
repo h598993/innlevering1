@@ -17,10 +17,10 @@ public class Oppgave3 {
 
 		// Regner n-fakultetet og viser svaret i et dialogvindu
 
-		long sum = 1;
+		long total = 1;
 
 		for (int i = 1; i <= brukerInput; i++) {
-			sum *= i;
+			total *= i;
 		}
 
 		showMessageDialog(null, "n! til " + brukerInput + " er " + sum);
