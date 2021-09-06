@@ -24,7 +24,5 @@ public class Oppgave3 {
 		}
 
 		showMessageDialog(null, "n! til " + brukerInput + " er " + total);
-
 	}
-
 }
